@@ -1,0 +1,15 @@
+[200]
+{"_links":
+    {"self":{"href":"https://nikitalars1.amocrm.ru/api/v4/leads/1747659/notes"}},
+    "_embedded":{"notes":[{"id":2291381,
+                    "entity_id":1747659,
+                    "request_id":"0",
+                    "_links":{"self":{"href":"https://nikitalars1.amocrm.ru/api/v4/leads/1747659/notes/2291381"}}}]}}
+[400] {"errors":[{"code":226,"message":"Error 226.","source":{"last_modified":1746097908,"element_id":2228349,"element_type":1,"note_type":4,"text":"Contacts изменён. ID: 2228349, поля: Телефон: +7 495 0000001, Адрес: q, время: 2025-05-01 11:11:42"}}],"title":"Bad Request","type":"https://httpstatus.es/400","status":400,"detail":"Invalid request"}
+[200] {"_links":{"self":{"href":"https://nikitalars1.amocrm.ru/api/v4/leads/1747659/notes"}},"_embedded":{"notes":[{"id":2295437,"entity_id":1747659,"request_id":"0","_links":{"self":{"href":"https://nikitalars1.amocrm.ru/api/v4/leads/1747659/notes/2295437"}}}]}}
+[200] {"_links":{"self":{"href":"https://nikitalars1.amocrm.ru/api/v4/leads/1747659/notes"}},"_embedded":{"notes":[{"id":2295563,"entity_id":1747659,"request_id":"0","_links":{"self":{"href":"https://nikitalars1.amocrm.ru/api/v4/leads/1747659/notes/2295563"}}}]}}
+[400] {"errors":[{"code":226,"message":"Error 226.","source":{"last_modified":1746098105,"element_id":2228349,"element_type":1,"note_type":4,"text":"Contacts изменён. ID: 2228349, поля: Телефон: +7 495 0000001, Адрес: q, время: 2025-05-01 11:11:42"}}],"title":"Bad Request","type":"https://httpstatus.es/400","status":400,"detail":"Invalid request"}
+[200] {"_links":{"self":{"href":"https://nikitalars1.amocrm.ru/api/v4/leads/1747659/notes"}},"_embedded":{"notes":[{"id":2295565,"entity_id":1747659,"request_id":"0","_links":{"self":{"href":"https://nikitalars1.amocrm.ru/api/v4/leads/1747659/notes/2295565"}}}]}}
+[400] {"errors":[{"code":226,"message":"Error 226.","source":{"last_modified":1746098106,"element_id":2228349,"element_type":1,"note_type":4,"text":"Contacts изменён. ID: 2228349, поля: Телефон: +7 495 0000001, Адрес: q, время: 2025-05-01 11:11:42"}}],"title":"Bad Request","type":"https://httpstatus.es/400","status":400,"detail":"Invalid request"}
+[400] {"errors":[{"code":226,"message":"Error 226.","source":{"last_modified":1746098307,"element_id":2228349,"element_type":1,"note_type":4,"text":"Contacts изменён. ID: 2228349, поля: Телефон: +7 495 0000001, Адрес: тт, время: 2025-05-01 11:18:26"}}],"title":"Bad Request","type":"https://httpstatus.es/400","status":400,"detail":"Invalid request"}
+[200] {"_links":{"self":{"href":"https://nikitalars1.amocrm.ru/api/v4/leads/1747659/notes"}},"_embedded":{"notes":[{"id":2295657,"entity_id":1747659,"request_id":"0","_links":{"self":{"href":"https://nikitalars1.amocrm.ru/api/v4/leads/1747659/notes/2295657"}}}]}}

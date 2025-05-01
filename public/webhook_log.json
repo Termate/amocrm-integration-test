@@ -1,0 +1,31 @@
+{
+    "account": {
+        "subdomain": "nikitalars1",
+        "id": "32395230",
+        "_links": {
+            "self": "https:\/\/nikitalars1.amocrm.ru"
+        }
+    },
+    "leads": {
+        "note": [
+            {
+                "note": {
+                    "timestamp_x": "2025-05-01 13:18:28",
+                    "element_id": "1747659",
+                    "element_type": "2",
+                    "note_type": "4",
+                    "text": "Leads \u0438\u0437\u043c\u0435\u043d\u0451\u043d. ID: 1747659, \u043f\u043e\u043b\u044f: , \u0432\u0440\u0435\u043c\u044f: 2025-05-01 11:18:27",
+                    "account_id": "32395230",
+                    "date_create": "2025-05-01 13:18:28",
+                    "metadata": "{\"event_source\":{\"id\":\"dc037eeb-b0a5-46f7-ab0d-1bc3c06f808c\",\"author_name\":\"Webhook Integration Test\",\"type\":2}}",
+                    "created_by": "0",
+                    "modified_by": "0",
+                    "main_user_id": "12451706",
+                    "id": "2295657",
+                    "created_at": "1746098308",
+                    "updated_at": "1746098308"
+                }
+            }
+        ]
+    }
+}
